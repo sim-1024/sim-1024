@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hallo! 👋 Ich bin Oussama
 
-<!--
-**sim-1024/sim-1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin im zweiten Semester meines IT-Studiums. Problemlösungen begeistern mich, und ich bin immer auf der Suche nach neuen Herausforderungen und Möglichkeiten, meine Fähigkeiten weiter auszubauen.
 
-Here are some ideas to get you started:
+## 🚀 Aktuell arbeite ich an:
+- Ponyhof: ein C++-Programm zur Verwaltung eines Ponyhofs, mit Funktionen zur Buchung von Reitstunden und Verwaltung der Pferde.
+- Versicherungsfirma: ein C++-Programm zum Verwalten der KFZ-Versicherungen und Lebensversicherungen.
+- Callcenter: ein C++-Programm, mit dem ein Callcenter Reservierungen für Corona-Impfungen in Arztpraxen anlegt und verwaltet.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Fähigkeiten & Technologien:
+- Programmiersprachen: C++
+- Algorithmen und Datenstrukturen: Sortier- und Suchalgorithmen
+- Hardware-Grundlagen: Elektronische Bauteile (z.B. Kondensator, Transistor, RAM)
+
+## 📫 So erreichen Sie mich:
+- E-Mail: oussamaaitali.d@gmail.com
