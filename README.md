@@ -3,6 +3,7 @@
 Ich bin im zweiten Semester meines IT-Studiums. Problemlösungen begeistern mich, und ich bin immer auf der Suche nach neuen Herausforderungen und Möglichkeiten, meine Fähigkeiten weiter auszubauen.
 
 ## 🚀 Aktuell arbeite ich an:
+- FIFA: ein C++-Programm als kleiner Spiel zur Verwaltung der Meisterschaften, Mannschaften und Spieler.
 - Ponyhof: ein C++-Programm zur Verwaltung eines Ponyhofs, mit Funktionen zur Buchung von Reitstunden und Verwaltung der Pferde.
 - Versicherungsfirma: ein C++-Programm zum Verwalten der KFZ-Versicherungen und Lebensversicherungen.
 - Callcenter: ein C++-Programm, mit dem ein Callcenter Reservierungen für Corona-Impfungen in Arztpraxen anlegt und verwaltet.
