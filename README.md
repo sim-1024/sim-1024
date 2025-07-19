@@ -4,7 +4,7 @@ Ich bin im zweiten Semester meines IT-Studiums. Problemlösungen begeistern mich
 
 ## 🚀 Aktuell arbeite ich an:
 Praktika bzw. Prüfungen:
-- Reiseagentur GUI (Qt): C++-Anwendung zur Verwaltung von Reisezielen und Aktivitäten je Reiseziel.
+- Reiseagentur GUI (Qt): C++-Anwendung zur Verwaltung von Reisezielen und Aktivitäten, inkl. JSON-Datenmanagement.
 - Ponyhof (Qt): ein C++-Programm zur Verwaltung eines Ponyhofs, mit Funktionen zur Buchung von Reitstunden und Verwaltung der Pferde.
 - Versicherungsfirma (Qt): ein C++-Programm zum Verwalten der KFZ-Versicherungen und Lebensversicherungen.
 - Callcenter (Qt): ein C++-Programm, mit dem ein Callcenter Reservierungen für Corona-Impfungen in Arztpraxen anlegt und verwaltet.
