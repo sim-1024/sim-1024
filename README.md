@@ -1,6 +1,6 @@
 # Hallo! 👋 Ich bin Oussama
 
-Ich bin im zweiten Semester meines IT-Studiums. Problemlösungen begeistern mich, und ich bin immer auf der Suche nach neuen Herausforderungen und Möglichkeiten, meine Fähigkeiten weiter auszubauen.
+Ich bin im dritten Semester meines IT-Studiums. Problemlösungen begeistern mich, und ich bin immer auf der Suche nach neuen Herausforderungen und Möglichkeiten, meine Fähigkeiten weiter auszubauen.
 
 ## 🚀 Aktuell arbeite ich an:
 Praktika bzw. Prüfungen:
