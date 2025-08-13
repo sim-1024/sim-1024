@@ -4,6 +4,7 @@ Ich bin im zweiten Semester meines IT-Studiums. Problemlösungen begeistern mich
 
 ## 🚀 Aktuell arbeite ich an:
 Praktika bzw. Prüfungen:
+- Taschenrechner (Qt): C++-Taschenrechner mit GUI zur Durchführung grundlegender mathematischer Operationen.
 - Reiseagentur GUI (Qt): C++-Anwendung zur Verwaltung von Reisezielen und Aktivitäten, inkl. JSON-Datenmanagement.
 - Ponyhof (Qt): ein C++-Programm zur Verwaltung eines Ponyhofs, mit Funktionen zur Buchung von Reitstunden und Verwaltung der Pferde.
 - Versicherungsfirma (Qt): ein C++-Programm zum Verwalten der KFZ-Versicherungen und Lebensversicherungen.
