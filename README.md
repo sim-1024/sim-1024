@@ -3,6 +3,8 @@
 Ich bin im dritten Semester meines IT-Studiums. Problemlösungen begeistern mich, und ich bin immer auf der Suche nach neuen Herausforderungen und Möglichkeiten, meine Fähigkeiten weiter auszubauen.
 
 ## 🚀 Aktuell arbeite ich an:
+- Lerne aktuell Python zur Erweiterung meiner Programmierkenntnisse.
+
 Übungen bzw. Prüfungen:
 - Taschenrechner GUI (Qt): C++-Taschenrechner mit GUI zur Durchführung grundlegender mathematischer Operationen.
 - Reiseagentur GUI (Qt): C++-Anwendung zur Verwaltung von Reisezielen und Aktivitäten, inkl. JSON-Datenmanagement.
