@@ -4,6 +4,7 @@ Ich bin im dritten Semester meines IT-Studiums. Problemlösungen begeistern mich
 
 ## 🚀 Aktuell arbeite ich an:
 Ich lerne derzeit Python, um meine Programmierkenntnisse zu erweitern.
+
 Übungen bzw. Prüfungen:
 - To-Do-Liste CLI (VS Code): Python-Konsolenprogramm zur einfachen Verwaltung von Aufgaben.
 - Taschenrechner GUI (Qt): C++-Taschenrechner mit GUI zur Durchführung grundlegender mathematischer Operationen.
