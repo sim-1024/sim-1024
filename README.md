@@ -3,9 +3,9 @@
 Ich bin im dritten Semester meines IT-Studiums. Problemlösungen begeistern mich, und ich bin immer auf der Suche nach neuen Herausforderungen und Möglichkeiten, meine Fähigkeiten weiter auszubauen.
 
 ## 🚀 Aktuell arbeite ich an:
-Ich lerne derzeit Python, um meine Programmierkenntnisse zu erweitern.
 
 Übungen bzw. Prüfungen:
+- DataAnalyzer-GUI (VS Code): Ein Python-GUI-Tool zur Analyse und Bearbeitung von CSV-Daten.
 - To-Do-Liste CLI (VS Code): Python-Konsolenprogramm zur einfachen Verwaltung von Aufgaben.
 - Taschenrechner GUI (Qt): C++-Taschenrechner mit GUI zur Durchführung grundlegender mathematischer Operationen.
 - Reiseagentur GUI (Qt): C++-Anwendung zur Verwaltung von Reisezielen und Aktivitäten, inkl. JSON-Datenmanagement.
@@ -14,7 +14,7 @@ Ich lerne derzeit Python, um meine Programmierkenntnisse zu erweitern.
 - Callcenter (Qt): ein C++-Programm, mit dem ein Callcenter Reservierungen für Corona-Impfungen in Arztpraxen anlegt und verwaltet.
 
 ## 📚 Fähigkeiten & Technologien:
-- Programmiersprachen: C++, Python (Grundlagen), ARM-Assembler
+- Programmiersprachen: C++, Python, ARM-Assembler
 - Entwicklungsumgebungen: Qt Creator, VS Code, CLion
 - Datenmanagement: JSON für das Speichern und Einlesen von Daten
 - Software Design: Objektorientierte Analyse, Design Patterns
