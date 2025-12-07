@@ -5,6 +5,7 @@ Ich bin im dritten Semester meines IT-Studiums. Problemlösungen begeistern mich
 ## 🚀 Aktuell arbeite ich an:
 
 Übungen bzw. Prüfungen:
+- Lerne aktuell die Grundlagen von HTML, CSS & JavaScript.
 - DataAnalyzer-GUI (VS Code): Ein Python-GUI-Tool zur Analyse und Bearbeitung von CSV-Daten.
 - To-Do-Liste CLI (VS Code): Python-Konsolenprogramm zur einfachen Verwaltung von Aufgaben.
 - Taschenrechner GUI (Qt): C++-Taschenrechner mit GUI zur Durchführung grundlegender mathematischer Operationen.
@@ -18,7 +19,6 @@ Ich bin im dritten Semester meines IT-Studiums. Problemlösungen begeistern mich
 - Entwicklungsumgebungen: Qt Creator, VS Code, CLion
 - Datenmanagement: JSON für das Speichern und Einlesen von Daten
 - Software Design: Objektorientierte Analyse, Design Patterns
-- Hardware-Grundlagen: Elektronische Bauteile (z.B. Kondensator, Transistor, RAM)
 
 ## 📫 So erreichen Sie mich:
 - E-Mail: oussamaaitali.d@gmail.com
