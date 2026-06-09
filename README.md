@@ -5,7 +5,7 @@ Ich bin im vierten Semester meines IT-Studiums. Problemlösungen begeistern mich
 ## 🚀 Aktuell arbeite ich an:
 
 Praktika bzw. Prüfungen:
-- Pizza-Service (VS Code): eine MVC-basierte Webanwendung mit PHP, JavaScript, MariaDB und Docker für die vollständige Verwaltung von Pizza-Bestellungen.
+- Pizza Service (Web): Ein webbasiertes Pizza-Bestellsystem mit HTML, PHP, JavaScript und MVC-Architektur zur Verwaltung des kompletten Bestellprozesses einer Pizzeria.
 - DataAnalyzer-GUI (VS Code): Ein Python-GUI-Tool zur Analyse und Bearbeitung von CSV-Daten.
 - To-Do-Liste CLI (VS Code): Python-Konsolenprogramm zur einfachen Verwaltung von Aufgaben.
 - Taschenrechner GUI (Qt): C++-Taschenrechner mit GUI zur Durchführung grundlegender mathematischer Operationen.
