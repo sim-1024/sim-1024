@@ -4,8 +4,8 @@ Ich bin im vierten Semester meines IT-Studiums. Problemlösungen begeistern mich
 
 ## 🚀 Aktuell arbeite ich an:
 
-Übungen bzw. Prüfungen:
-- Lerne aktuell die Grundlagen von HTML, CSS & JavaScript.
+Praktika bzw. Prüfungen:
+- Pizza-Service (VS Code): eine MVC-basierte Webanwendung mit PHP, JavaScript, MariaDB und Docker für die vollständige Verwaltung von Pizza-Bestellungen.
 - DataAnalyzer-GUI (VS Code): Ein Python-GUI-Tool zur Analyse und Bearbeitung von CSV-Daten.
 - To-Do-Liste CLI (VS Code): Python-Konsolenprogramm zur einfachen Verwaltung von Aufgaben.
 - Taschenrechner GUI (Qt): C++-Taschenrechner mit GUI zur Durchführung grundlegender mathematischer Operationen.
@@ -15,10 +15,10 @@ Ich bin im vierten Semester meines IT-Studiums. Problemlösungen begeistern mich
 - Callcenter (Qt): ein C++-Programm, mit dem ein Callcenter Reservierungen für Corona-Impfungen in Arztpraxen anlegt und verwaltet.
 
 ## 📚 Fähigkeiten & Technologien:
-- Programmiersprachen: C++, Python, ARM-Assembler
-- Entwicklungsumgebungen: Qt Creator, VS Code, CLion
-- Datenmanagement: JSON für das Speichern und Einlesen von Daten
+- Programmiersprachen: C++, Python, HTML, PHP, SQL
+- Entwicklungsumgebungen: Qt Creator, VS Code, CLion, PyCharm
 - Software Design: Objektorientierte Analyse, Design Patterns
+- Testing: Q1-Tests (Unit-Tests, Integrationtests), Q2-Tests (Service Tests)
 
 ## 📫 So erreichen Sie mich:
 - E-Mail: oussamaaitali.d@gmail.com
